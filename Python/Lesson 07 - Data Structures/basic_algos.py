@@ -1,4 +1,4 @@
-# Basic Algorithms
+3  # Basic Algorithms
 
 # Exercise 1
 
@@ -11,6 +11,7 @@ def mut_example(list1, list2, list3):
     list2[0] = "hi"
     list3 = "".join(list2)
 
+
 a_list = [1, 2, 3]
 b_list = ["a", "b", "c"]
 a_str = "do-re-mi"
@@ -18,8 +19,6 @@ mut_example(a_list, b_list, a_str)
 print(a_list)
 print(b_list)
 print(a_str)
-
-
 
 
 # Exercise 2
@@ -31,7 +30,6 @@ print(a_str)
 # Please explain
 
 
-
 # Exercise 3
 
 # Write a function that doubles the elements in a list.
@@ -40,13 +38,10 @@ print(a_str)
 # Do you need to return anything here?
 
 
-
 # Write a function that doubles the elements in a tuple.
 
 
-
 # Do you need to return anything here?
-
 
 
 # Exercise 4
@@ -66,7 +61,6 @@ print(a_str)
 # Write a function that adds two fractions
 
 
-
 # Write a function that multiplies two fractions
 
 
@@ -78,6 +72,4 @@ print(a_str)
 # write a function to calculate distance between two cartesian coordinates
 
 
-
 # extension: make it work for more than two dimensions
-
